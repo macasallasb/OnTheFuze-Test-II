@@ -1,2 +1,0 @@
-def largestRectangle(h):
-    
